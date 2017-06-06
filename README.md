@@ -1,5 +1,5 @@
 # nodejs-monica-adapter
-Node.js adapter to use the "model for Nitrogen and Carbon in agricultural systems" from ZALF Muencheberg, Germany
+Node.js adapter to use the [model for Nitrogen and Carbon in agricultural systems](https://github.com/zalf-lsa/monica)  from ZALF Muencheberg, Germany
 
 # Requirements
 You need to install monica and two by monica required packages:  
