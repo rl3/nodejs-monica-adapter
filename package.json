@@ -1,0 +1,23 @@
+{
+  "name": "monica-adapter",
+  "version": "1.0.0",
+  "description": "Node.js module 'model for Nitrogen and Carbon in agricultural systems' from ZALF Muencheberg, Germany",
+  "main": "index.js",
+  "dependencies": {
+    "iconv": "^2.2.1",
+    "zmq": "^2.15.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rl3/nodejs-monica-adapter.git"
+  },
+  "author": "runlevel3 <nodejs@runlevel3.de> (http://runlevel3.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rl3/nodejs-monica-adapter/issues"
+  },
+  "homepage": "https://github.com/rl3/nodejs-monica-adapter#readme"
+}

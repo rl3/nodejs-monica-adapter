@@ -1,0 +1,13 @@
+{
+    "undef": true,
+    "unused": true,
+    "laxbreak": true,
+    "laxcomma": true,
+    "predef": [
+        "require", "module", "process", "console", "setTimeout", "clearTimeout", "__dirname",
+        "Buffer"
+    ],
+    "sub": true,
+    "unused": "vars",
+    "strict": "global"
+}
